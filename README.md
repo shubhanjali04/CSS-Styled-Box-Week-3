@@ -5,7 +5,7 @@ This project is a simple and visually pleasing web page built using HTML and CSS
 ## 🔗 Live Demo
 
 You can view the live version of this project here:  
-**[View Demo])**
+**[View Demo](https://shubhanjali04.github.io/CSS-Styled-Box-Week-3/)**
 
 
 ## Project Highlights
@@ -27,6 +27,7 @@ You can view the live version of this project here:
 1. Download or clone this repository to your local machine.
 2. Ensure that `pastel-bg.png` (the background image) is placed in the same folder as `index.html`.
 3. Open `index.html` using any modern web browser (Chrome, Firefox, Edge, etc.).
+4. Or you can run and check this by the link given above for live demo.
 
 ## Folder Structure
 project-folder/
