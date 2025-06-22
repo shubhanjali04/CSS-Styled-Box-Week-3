@@ -7,7 +7,6 @@ This project is a simple and visually pleasing web page built using HTML and CSS
 You can view the live version of this project here:  
 **[View Demo])**
 
-*Replace the above link with your actual deployment URL.*
 
 ## Project Highlights
 
