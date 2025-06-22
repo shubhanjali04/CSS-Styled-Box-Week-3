@@ -31,7 +31,6 @@ You can view the live version of this project here:
 
 ## Folder Structure
 project-folder/
-│
 ├── index.html
 ├── pastel-bg.png
 └── README.md
